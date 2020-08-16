@@ -1,0 +1,27 @@
+{
+    "Plugins": {
+        "core": "Contacts,Meta,Menus,Users,Ckeditor,Manager,Highcharts",
+        "extend": "Product"
+    },
+    "Site": {
+        "email": "tranngocthang89@gmail.com",
+        "locale": "vn",
+        "status": 1,
+        "tagline": "TNT",
+        "theme": "",
+        "timezone": 7,
+        "title": "TNT"
+    },
+    "Meta": {
+        "description": "Admin Management System",
+        "generator": "Management System",
+        "keywords": "tranngoc8x",
+        "robots": "index, follow"
+    },
+    "Service": {
+        "akismet_key": "c94615640332",
+        "akismet_url": "http://localhost/cakephp/croogo-2.0.0",
+        "recaptcha_private_key": "1c2610354154b0e2b5c44d27814365be",
+        "recaptcha_public_key": "01sq5vRySsLl7-Qm7LNZ3u6g=="
+    }
+}
